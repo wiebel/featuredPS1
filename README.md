@@ -1,1 +1,1 @@
-Massively overloaded PS1 for bash
+Massively overloaded PS1 for bash.
